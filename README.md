@@ -1,5 +1,5 @@
 # antibordem
 
-#By CUrtis Badio
+# by CUrtis Badio
 
-#I made all this do not copy
+# I made all this do not copy
